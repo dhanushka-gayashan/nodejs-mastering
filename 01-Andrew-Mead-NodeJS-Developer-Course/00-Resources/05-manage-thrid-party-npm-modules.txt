@@ -1,0 +1,9 @@
+> Install Globally
+    - npm install -g <npm_module_name>
+
+> Install Project Level
+    - npm install <npm_module_name>
+    - npm i <npm_module_name>
+
+> Uninstall 
+    - npm Uninstall <npm_module_name>

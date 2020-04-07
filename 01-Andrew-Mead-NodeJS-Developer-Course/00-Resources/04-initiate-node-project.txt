@@ -1,0 +1,5 @@
+> Create Project 
+    - npm init
+
+> Recreate Dependncies
+    - npm install

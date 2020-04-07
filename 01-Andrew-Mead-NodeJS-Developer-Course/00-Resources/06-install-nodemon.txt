@@ -1,0 +1,5 @@
+> Install nodemon
+    - npm intall -g nodemon
+
+> Start Application
+    - nodemon <entry_point>
